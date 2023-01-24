@@ -1,0 +1,7 @@
+Log on to Taco Bell app
+Look for food to add to cart
+Add payment info
+Select pickup at drive-thru
+Purchase food
+Drive to pick up food
+Great success!
